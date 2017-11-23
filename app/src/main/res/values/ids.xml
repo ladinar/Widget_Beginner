@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="widget_plant_image" type="id" />
+    <item name="widget_water_button" type="id" />
 </resources>
