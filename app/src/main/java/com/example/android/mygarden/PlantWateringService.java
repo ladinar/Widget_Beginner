@@ -30,6 +30,9 @@ public class PlantWateringService extends IntentService {
         context.startService(intent);
     }
 
+    public static void startActionUpdatePlantWidgets(Context context) {
+    }
+
     @Override
     protected void onHandleIntent(Intent intent) {
         if (intent != null) {
